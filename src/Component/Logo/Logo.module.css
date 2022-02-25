@@ -1,0 +1,16 @@
+.logoSection {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding-top: 50px;
+    background-color: rgb(183, 216, 183);
+}
+
+.logoImage {
+    width: 300px;
+    user-select: none;
+}
+
+.job {
+    color: white;
+}

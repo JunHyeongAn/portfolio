@@ -1,0 +1,60 @@
+.intro {
+	white-space: pre-wrap;
+	height: 100vh;
+	background-color: rgb(20, 19, 19);
+	font-size: 20pt;
+	color: white;
+}
+
+.coding {
+	width: 70%;
+	padding: 50px;
+}
+
+.go {
+	cursor: pointer;
+	user-select: none;
+	background-color: green;
+	border-radius: 15px;
+	padding: 20px 0;
+	text-align: center;
+	width: 200px;
+	margin-top: 150px;
+}
+.go:hover {
+	background-color: white;
+	color: black;
+}
+
+.box {
+	position: absolute;
+	top: 30%;
+	right: 30%;
+	display: flex;
+	flex-flow: column;
+	align-items: flex-end;
+}
+
+.orange {
+	color: orange;
+}
+
+.blue {
+	color: rgb(67, 67, 202);
+}
+
+.green {
+	color: rgb(18, 160, 18);
+}
+
+.sky {
+	color: aqua;
+}
+
+.lightgreen {
+	color: greenyellow;
+}
+
+.darkgreen {
+	color: rgb(5, 105, 5);
+}

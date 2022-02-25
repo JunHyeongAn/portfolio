@@ -1,0 +1,27 @@
+p {
+    display: inline;
+}
+
+.o {
+	color: orange;
+}
+
+.b {
+	color: rgb(67, 67, 202);
+}
+
+.g {
+	color: rgb(18, 160, 18);
+}
+
+.s {
+	color: aqua;
+}
+
+.l {
+	color: greenyellow;
+}
+
+.d {
+	color: rgb(5, 105, 5);
+}

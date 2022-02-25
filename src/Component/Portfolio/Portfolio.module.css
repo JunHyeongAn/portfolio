@@ -1,0 +1,39 @@
+.portfolioSection {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding-bottom: 50px;
+    background-color: rgb(183, 201, 147);
+}
+
+.portfolioSection h2 {
+    font-size: 25pt;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 610px;
+}
+
+.portfolioBox {
+    cursor: pointer;
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 150px;
+    border-radius: 15px;
+    background-color: rgb(233, 53, 53);
+    margin: 25px;
+}
+
+.portfolioBox img {
+    width: 100px;
+    height: 80px;
+}
+
+.portfolioBox:hover {
+    padding: 5px;
+}
