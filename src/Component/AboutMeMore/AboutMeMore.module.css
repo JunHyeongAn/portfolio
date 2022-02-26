@@ -1,0 +1,52 @@
+table, td, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table {
+    padding: 10px;
+}
+
+td, tr, th {
+    padding: 5px 10px;
+}
+
+.aboutMeMore {
+    font-size: 15pt;
+}
+
+.aboutMeMore div {
+    padding: 10px 5px;
+}
+
+.wrapper {
+    margin-left: 30px;
+}
+
+.title {
+    font-size: 25pt;
+}
+
+.eduContainer {
+    display: flex;
+    flex-flow: column;
+}
+
+.innerContainer {
+    display: flex;
+    width: 1000px;
+    justify-content: space-between;
+}
+
+.splider {
+    width: 520px;
+}
+
+.splider li {
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.splider img {
+    width: 200px;
+}

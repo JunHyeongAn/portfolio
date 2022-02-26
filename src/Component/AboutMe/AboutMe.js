@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styles from "./AboutMe.module.css"
 
 function AboutMe() {
@@ -43,7 +44,9 @@ function AboutMe() {
           </li>
         </ul>
         <div className={styles.more}>
-          More
+          <Link to="/aboutMe">
+            More
+          </Link>
         </div>
       </section>
     );

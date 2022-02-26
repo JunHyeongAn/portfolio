@@ -8,7 +8,6 @@ function Logo() {
         <ul>
           <li className={styles.job}><h2>Back-End developer</h2></li>
         </ul>
-        <p>개발을 즐기고 있는 개발자 안준형입니다</p>
     </section>
     );
 }
