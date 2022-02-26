@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ae5dfaa2.css",
-    "main.js": "/portfolio/static/js/main.1d5966aa.js",
+    "main.css": "/portfolio/static/css/main.285192fb.css",
+    "main.js": "/portfolio/static/js/main.b2cdf75f.js",
+    "static/media/grade.jpg": "/portfolio/static/media/grade.0f0606be1cd0fa0e1921.jpg",
+    "static/media/cyberschool.jpg": "/portfolio/static/media/cyberschool.264df1251ec11da1bb1c.jpg",
+    "static/media/network.jpeg": "/portfolio/static/media/network.97df5d5650766a66422c.jpeg",
     "static/media/boy-gbbda2787d_640.png": "/portfolio/static/media/boy-gbbda2787d_640.e55451d8f14020887dc6.png",
+    "static/media/linux.png": "/portfolio/static/media/linux.c3ae421f49700d77875c.png",
+    "static/media/football.png": "/portfolio/static/media/football.4d9ee6e9a3a9e83fcb2b.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.aa790b3c3edcf0510519.png",
     "index.html": "/portfolio/index.html",
-    "main.ae5dfaa2.css.map": "/portfolio/static/css/main.ae5dfaa2.css.map",
-    "main.1d5966aa.js.map": "/portfolio/static/js/main.1d5966aa.js.map"
+    "main.285192fb.css.map": "/portfolio/static/css/main.285192fb.css.map",
+    "main.b2cdf75f.js.map": "/portfolio/static/js/main.b2cdf75f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae5dfaa2.css",
-    "static/js/main.1d5966aa.js"
+    "static/css/main.285192fb.css",
+    "static/js/main.b2cdf75f.js"
   ]
 }
